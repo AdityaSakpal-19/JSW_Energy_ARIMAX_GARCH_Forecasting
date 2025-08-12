@@ -10,7 +10,7 @@ The analysis integrates **macroeconomic and sectoral factors** such as **oil pri
 - **Sector Context**: Energy sector is undergoing transformation with rising renewable investments.
 - **Company Focus**: JSW Energy — strong presence in thermal & renewable energy projects.
 - **Model**: ARIMAX for mean returns + GARCH for volatility.
-- **Data Source**: SQLite database (`jswe_stock_data.db`).
+- **Data Source**: SQLite database ("D:\Resume\Projects\JSW Energy\jswe_stock_data.db").
 - **Forecast Horizon**: 30 business days ahead.
 - **Output**: Fan chart with probabilistic forecasts, risk scenarios, and professional analyst report.
 - **Tools**: Python, JupyterNotebook, AI, SQlite
